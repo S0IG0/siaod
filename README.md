@@ -6,4 +6,10 @@
 
 <h1 align="center">Practical work on SIAOD:</h1> 
 
-<h3 align="left"><a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank">work 1</a>. Variant№  - (exchangeSort)</h3>
+
+
+<ul>
+  <li><h3 align="left">Variant№ 1.2 - (exchangeSort) --> <a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank">work 1</a></h3></li>
+  <li><h3 align="left">Variant№ 2.4 - (quicksort) --> <a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank">work 1</a></h3></li>
+  <li><h3 align="left">Variant№ 3.2 - (mergeSort) --> <a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank">work 1</a></h3></li>
+</ul>
