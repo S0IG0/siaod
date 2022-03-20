@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0IG0&layout=compact)](https://github.com/S0IG0/siaod)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0IG0&layout=compact)](https://github.com/S0IG0/siaod)</p>
 
 <h1 align="center">Practical work on SIAOD:</h1> 
 
