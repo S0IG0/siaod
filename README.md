@@ -10,6 +10,6 @@
 
 <ul>
   <li><h3 align="left">Variant№ 1.2 - (exchangeSort) <a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank"><p align="right">Practice 1</p></a></h3></li>
-  <li><h3 align="left">Variant№ 2.4 - (quicksort)    <a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank"><p align="right">Practice 2</p></a></h3></li>
-  <li><h3 align="left">Variant№ 3.2 - (mergeSort)    <a href="https://github.com/S0IG0/siaod/blob/master/1/main.cpp" target="_blank"><p align="right">Practice 1</p></a></h3></li>
+  <li><h3 align="left">Variant№ 2.4 - (quicksort)    <a href="https://github.com/S0IG0/siaod/blob/master/2/main.cpp" target="_blank"><p align="right">Practice 2</p></a></h3></li>
+  <li><h3 align="left">Variant№ 3.2 - (mergeSort)    <a href="https://github.com/S0IG0/siaod/blob/master/3/main.cpp" target="_blank"><p align="right">Practice 3</p></a></h3></li>
 </ul>
